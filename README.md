@@ -1,4 +1,4 @@
-# Data Science Project Example
+# Green Taxis of New York City - a data science project example
 
 This repo contains the code/figure and report for a Data Science Project Example: "Green Taxis of New York City"
 
